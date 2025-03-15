@@ -1,30 +1,28 @@
-package learnway.view.admin.dashboard;
+package learnway.view.instructor.dashboard;
 
 import com.formdev.flatlaf.FlatClientProperties;
 import com.formdev.flatlaf.FlatLaf;
 import com.formdev.flatlaf.fonts.roboto.FlatRobotoFont;
 import com.formdev.flatlaf.themes.FlatMacLightLaf;
 import com.formdev.flatlaf.util.UIScale;
-import java.awt.Color;
-import java.awt.Dimension;
-import java.awt.EventQueue;
-import java.awt.Font;
-import javax.swing.JFrame;
-import javax.swing.UIManager;
 import learnway.components.Background;
-import learnway.view.admin.dashboard.forms.DashboardForm;
-import learnway.view.admin.dashboard.menu.FormManager;
+import learnway.view.admin.dashboard.forms.AdminDashboardForm;
 import raven.popup.GlassPanePopup;
+
+import javax.swing.*;
+import java.awt.*;
+import learnway.view.instructor.dashboard.forms.InstructorDashboardForm;
+import learnway.view.instructor.dashboard.menu.InstructorFormManager;
 
 /**
  *
  * @author Raven
  */
-public class AdminDashboard extends JFrame {
+public class InstructorDashboard extends JFrame {
 
     private final boolean UNDECORATED = !true;
 
-    public AdminDashboard() {
+    public InstructorDashboard() {
         init();
     }
 
@@ -41,8 +39,8 @@ public class AdminDashboard extends JFrame {
         setContentPane(new Background(UNDECORATED));
         // applyComponentOrientation(ComponentOrientation.RIGHT_TO_LEFT);
         GlassPanePopup.install(this);
-        FormManager.install(this, UNDECORATED);
-        FormManager.showForm(new DashboardForm());
+        InstructorFormManager.install(this, UNDECORATED);
+        InstructorFormManager.showForm(new InstructorDashboardForm());
         // applyComponentOrientation(ComponentOrientation.RIGHT_TO_LEFT);
     }
 
@@ -51,6 +49,6 @@ public class AdminDashboard extends JFrame {
         FlatLaf.registerCustomDefaultsSource("learnway.themes");
         UIManager.put("defaultFont", new Font(FlatRobotoFont.FAMILY, Font.PLAIN, 13));
         FlatMacLightLaf.setup();
-        EventQueue.invokeLater(() -> new AdminDashboard().setVisible(true));
+        EventQueue.invokeLater(() -> new InstructorDashboard().setVisible(true));
     }
 }

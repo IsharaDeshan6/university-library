@@ -1,7 +1,7 @@
-package learnway.view.admin.dashboard.forms;
+package learnway.view.instructor.dashboard.forms;
 
-import learnway.view.admin.dashboard.components.SimpleForm;
-import learnway.view.admin.dashboard.menu.FormManager;
+import learnway.components.SimpleForm;
+import learnway.view.instructor.dashboard.menu.InstructorFormManager;
 
 /**
  *
@@ -78,7 +78,7 @@ public class ReadForm extends SimpleForm {
     }// </editor-fold>//GEN-END:initComponents
 
     private void jButton1ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jButton1ActionPerformed
-        FormManager.showForm(new InboxForm());
+        InstructorFormManager.showForm(new InboxForm());
     }//GEN-LAST:event_jButton1ActionPerformed
 
 

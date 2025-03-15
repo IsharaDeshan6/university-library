@@ -1,2 +1,5 @@
-package com.dev;public interface Enginer {
+package com.dev;
+
+public interface Engine {
+    public String getCapacity();
 }

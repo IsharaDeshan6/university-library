@@ -1,4 +1,5 @@
 package com.dev;
 
-public interface Engine {
+public interface Engine  {
+    public String showCapacity();
 }

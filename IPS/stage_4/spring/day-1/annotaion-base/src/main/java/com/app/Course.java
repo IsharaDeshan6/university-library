@@ -1,6 +1,6 @@
-package app;
+package com.app;
 
 public interface Course {
     public String getProgrammeName();
-    public String getPrice();
+    public String calculateCost();
 }

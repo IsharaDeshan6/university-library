@@ -1,2 +1,11 @@
-package com.app;public class PriceCalcImpl {
+package com.app;
+
+import org.springframework.stereotype.Component;
+
+@Component
+public class PriceCalcImpl implements PriceCalc {
+    @Override
+    public String getPrice() {
+       return "50000 LKR";
+    }
 }

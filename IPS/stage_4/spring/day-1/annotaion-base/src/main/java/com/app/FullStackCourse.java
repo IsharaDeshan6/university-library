@@ -1,28 +1,17 @@
-package app;
+package com.app;
 
+import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.stereotype.Component;
+
+@Component("FullStackCourse")
 public class FullStackCourse implements Course{
 
-   private PriceCalc priceCalc;
+    private PriceCalc priceCalc;
 
-    public String getDuration() {
-        return duration;
+    @Autowired
+    public FullStackCourse(PriceCalc priceCalc) {
+        this.priceCalc = priceCalc;
     }
-
-    public void setDuration(String duration) {
-        this.duration = duration;
-    }
-
-    public String duration;
-//
-//    public FullStackCourse(PriceCalc priceCalc) {
-//        this.priceCalc = priceCalc;
-//    }
-
-
-     FullStackCourse() {
-    }
-
-
 
     @Override
     public String getProgrammeName() {
@@ -30,19 +19,9 @@ public class FullStackCourse implements Course{
     }
 
     @Override
-    public String getPrice() {
-        return priceCalc.showPrice();
+    public String calculateCost() {
+        return priceCalc.getPrice();
     }
 
 
-    public void setPriceCalc(PriceCalc priceCalc) {
-        this.priceCalc = priceCalc;
-    }
-
-    public void start(){
-        System.out.println("started");
-    }
-    public void destroyed(){
-        System.out.println("Triggered");
-    }
 }
