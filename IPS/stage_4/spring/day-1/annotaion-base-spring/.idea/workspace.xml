@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="f8a71a3b-7b38-407e-b73c-854926a9c294" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../../../../stage_1/Day_11/App/App.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../stage_1/Day_12/App/App.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../stage_1/Day_13/App/App.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../stage_1/Day_9/App/App/App.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../stage_1/EduProject/edusmart/edusmart.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../stage_2/ToDoApp/ToDoApp.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../stage_2/hibernate-systems/app1/app1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../stage_2/hibernate-systems/app2/.idea/app2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../stage_2/hibernate-systems/student-app/student-app.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../stage_2/hibernate/app/app.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/material_theme_project_new.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/index.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../annotaion-base/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../annotaion-base/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../annotaion-base/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../annotaion-base/.idea/material_theme_project_new.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../annotaion-base/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../annotaion-base/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../annotaion-base/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../annotaion-base/src/main/java/com/app/AppInitializer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../annotaion-base/src/main/java/com/app/Course.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../annotaion-base/src/main/java/com/app/FullStackCourse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../annotaion-base/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../annotaion-base/src/main/webapp/index.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ioc/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ioc/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ioc/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ioc/.idea/material_theme_project_new.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ioc/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ioc/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ioc/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ioc/src/main/java/com/app/AppInitializer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ioc/src/main/java/com/app/Course.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ioc/src/main/java/com/app/FullStackCourse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ioc/src/main/java/com/app/PriceCalc.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ioc/src/main/java/com/app/PriceCalcImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ioc/src/main/resources/ApplicationContext.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ioc/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ioc/src/main/webapp/index.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../IdeaProjects/Collectioin/untitled.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../NetBeansProjects/LMS-Test/.idea/LMS-Test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../NetBeansProjects/LearnWay/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../NetBeansProjects/LearnWay/.idea/material_theme_project_new.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../NetBeansProjects/LearnWay/src/learnway/view/instructor/dashboard/InstructorDashBoard.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../NetBeansProjects/LearnWay/src/learnway/view/instructor/dashboard/forms/InboxForm.form" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../NetBeansProjects/LearnWay/src/learnway/view/instructor/dashboard/forms/InboxForm.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../NetBeansProjects/LearnWay/src/learnway/view/instructor/dashboard/forms/ReadForm.form" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../NetBeansProjects/LearnWay/src/learnway/view/instructor/dashboard/forms/ReadForm.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../NetBeansProjects/Thread/Thread.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../shop_app/shop_app.iml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../../../.." />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 1
+}]]></component>
+  <component name="ProjectId" id="2hzOSiqjS4umuC1cOd5BF9iYvdm" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Maven. [org.apache.maven.plugins:maven-archetype-plugin:RELEASE:generate].executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "ignore.virus.scanning.warn.message": "true",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/Ishara Deshan/OneDrive/Desktop/LAST",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9f38398b9061-39b83d9b5494-intellij.indexing.shared.core-IU-241.17890.1" />
+        <option value="bundled-js-predefined-1d06a55b98c1-0b3e54e931b4-JavaScript-IU-241.17890.1" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f8a71a3b-7b38-407e-b73c-854926a9c294" name="Changes" comment="" />
+      <created>1718593442913</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1718593442913</updated>
+      <workItem from="1718593444147" duration="123000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>

@@ -1,0 +1,6 @@
+package app;
+
+public interface Course {
+    public String getProgrammeName();
+    public String getPrice();
+}
