@@ -1,6 +1,7 @@
 import React, {ReactNode} from 'react'
 import Header from "@/components/Header";
 
+
 const Layout =({children}:{children:ReactNode}) =>{
     return (
         <main className={'root-container'}>
@@ -14,4 +15,4 @@ const Layout =({children}:{children:ReactNode}) =>{
     )
 }
 
-export default Layout
+export default Layout;
